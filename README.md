@@ -80,3 +80,8 @@ collecting statistics
 	Папка .venv не должна коммититься (убедитесь, что она в .gitignore).
 	Для установки зависимостей в новом окружении используйте:
 	pip install -r requirements.txt
+
+# Документация в помощь
+.gitignore для Python → шаблон.   https://github.com/github/gitignore/blob/main/Python.gitignore
+
+GitHub Actions → документация.   https://docs.github.com/en/actions
