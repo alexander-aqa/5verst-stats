@@ -1,0 +1,19 @@
+
+# PyCharm
+.idea/
+*.iml
+misc.xml
+modules.xml
+workspace.xml
+inspectionProfiles/
+
+# Виртуальное окружение
+.venv/
+venv/
+
+# Кэш Python
+__pycache__/
+*.py[cod]
+
+# Данные (если не хотите коммитить)
+data/
